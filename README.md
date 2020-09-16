@@ -3,26 +3,22 @@
 
 
 
-**Chatbot feito no blip:** ![link do chat](https://chat.blip.ai/?appKey=ZGV2cHJvY2Vzc29zZWxldGl2bzE6MDBmN2ZkODYtMmNhZC00YjdiLWFjOGMtODk4OTVkYjliZWNm)
+**Chatbot feito no blip:** [chatbot](https://chat.blip.ai/?appKey=ZGV2cHJvY2Vzc29zZWxldGl2bzE6MDBmN2ZkODYtMmNhZC00YjdiLWFjOGMtODk4OTVkYjliZWNm)
 
-**Chatbot no meu site curriculo:** ![Site Pessoal](https://wevertonmata.github.io/weverton-mata/)
+**Chatbot no meu site curriculo:** [Site Pessoal](https://wevertonmata.github.io/weverton-mata/)
 
-**API no Heroku:** ![API](https://api-take.herokuapp.com/dados/{N}}
+**API no Heroku:** [API](https://api-take.herokuapp.com/dados/{N}})
 
 > N = posição do objeto no array.
-> EX: https://api-take.herokuapp.com/dados/1
+> **EX:** https://api-take.herokuapp.com/dados/1
 
 ```
-{
-full_name: "takenet/library.logging",
-
+{full_name: "takenet/library.logging",
 
 description: "Provides a simple logging interface for applications and some basic implementations of this interface",
 
-created_at: "2013-10-25T15:18:07Z"
-}
+created_at: "2013-10-25T15:18:07Z"}
 ```
-
 
 ### Imagem do builder
 
@@ -30,10 +26,10 @@ created_at: "2013-10-25T15:18:07Z"
 
 ---
 
+**PROCESSO:**
+
 - [x] Vídeo de apresentação :D
 - [x] Fazer chatbot e usar API do Github
 - [ ] Carregando....
 
-Uma atividade muito boa e interessante de se por em prática[^1]
-
-[^1]: E não vai ser a última.
+Uma atividade muito boa e interessante de se por em prática e não vai ser a última. 😁
