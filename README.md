@@ -6,6 +6,7 @@ API disponivel no Heroku: https://api-take.herokuapp.com/dados/N
 N = posição do objeto no array.
 
 > EX: https://api-take.herokuapp.com/dados/1
+
 ``
 {
 full_name: "takenet/library.logging",
