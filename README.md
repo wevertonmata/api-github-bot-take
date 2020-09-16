@@ -7,10 +7,10 @@
 
 **Chatbot no meu site curriculo:** [Site Pessoal](https://wevertonmata.github.io/weverton-mata/)
 
-**API no Heroku:** [API](https://api-take.herokuapp.com/dados/{N}})
+**API no Heroku:** 
 
-> N = posição do objeto no array.
-> **EX:** https://api-take.herokuapp.com/dados/1
+ N = posição do objeto no array.
+ **EX:** https://api-take.herokuapp.com/dados/1
 
 ```json
 {
