@@ -22,6 +22,6 @@ app.get("/dados/:id", async (req, res) => {
 });
 
 
-app.listen(process.envapi.PORT || 3000);
+app.listen(process.env.PORT || 3000);
 
 
