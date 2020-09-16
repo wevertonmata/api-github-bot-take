@@ -9,7 +9,7 @@
 
 **API no Heroku:** 
 
- N = posição do objeto no array.
+ 1 = posição do objeto no array.
  **EX:** https://api-take.herokuapp.com/dados/1
 
 ```json
