@@ -11,10 +11,10 @@ app.get("/dados/:id", async (req, res) => {
     .then(res => res.json())
       .then((json) => {
         for(i=0;i<json.length;i++) {
-          let { full_name, description, language, created_at, avatar_url } = json[i]
+          let { full_name, description, language, created_at} = json[i]
 
           if(language == 'C#'){ 
-            data.push({full_name, description, created_at, avatar_url})
+            data.push({full_name, description, created_at})
           }
         }
         res.status(200).send(data[req.params.id])   
