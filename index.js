@@ -17,7 +17,7 @@ app.get("/dados/:id", async (req, res) => {
             data.push({full_name, description, created_at})
           }
         }
-        res.status(200).send(data)   
+        res.status(200).send(data[req.params.id])   
       });
 });
 
