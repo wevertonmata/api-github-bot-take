@@ -12,12 +12,14 @@
 > N = posição do objeto no array.
 > **EX:** https://api-take.herokuapp.com/dados/1
 
-```
-{full_name: "takenet/library.logging",
+```json
+{
+full_name: "takenet/library.logging",
 
 description: "Provides a simple logging interface for applications and some basic implementations of this interface",
 
-created_at: "2013-10-25T15:18:07Z"}
+created_at: "2013-10-25T15:18:07Z"
+}
 ```
 
 ### Imagem do builder
