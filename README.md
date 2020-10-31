@@ -5,8 +5,6 @@
 
 **Chatbot feito no blip:** [chatbot](https://chat.blip.ai/?appKey=ZGV2cHJvY2Vzc29zZWxldGl2bzE6MDBmN2ZkODYtMmNhZC00YjdiLWFjOGMtODk4OTVkYjliZWNm)
 
-**Chatbot no meu site curriculo:** [Site Pessoal](https://wevertonmata.github.io/weverton-mata/)
-
 **API no Heroku:** 
 
  1 = posição do objeto no array.
