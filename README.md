@@ -31,5 +31,4 @@ created_at: "2013-10-25T15:18:07Z"
 - [x] Vídeo de apresentação :D
 - [x] Fazer chatbot e usar API do Github
 - [x] Reunião com RH
-- [ ] Teste de cultura 
 Uma atividade muito boa e interessante de se por em prática e não vai ser a última. 😁
